@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lesson 3 - Android app components</string>
+    <string name="poem_header">Кот программиста</string>
+</resources>
